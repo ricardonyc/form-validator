@@ -74,6 +74,8 @@ form h1 {
 }
 
 button {
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 1rem;
   display: block;
   width: 100%;
   border: none;
